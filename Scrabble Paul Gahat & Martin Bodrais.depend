@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1604869195 source:c:\users\utilisateur\desktop\scrabble paul gahat & martin bodrais\grille.c
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	"scrabble.h"
+
+1604849917 c:\users\utilisateur\desktop\scrabble paul gahat & martin bodrais\scrabble.h
+
+1604873585 source:c:\users\utilisateur\desktop\scrabble paul gahat & martin bodrais\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"Menu.h"
+
+1604851355 source:c:\users\utilisateur\desktop\scrabble paul gahat & martin bodrais\pioche.c
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<time.h>
+	<stdbool.h>
+	"scrabble.h"
+
+1604836178 source:c:\users\utilisateur\desktop\scrabble paul gahat & martin bodrais\placement_de_un_mot.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"scrabble.h"
+
+1604874625 source:c:\users\utilisateur\desktop\scrabble paul gahat & martin bodrais\tour_joueur.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"scrabble.h"
+
+1604868721 source:c:\users\utilisateur\desktop\scrabble paul gahat & martin bodrais\nouvelle_partie.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"scrabble.h"
+
+1604848530 c:\users\utilisateur\desktop\scrabble paul gahat & martin bodrais\menu.h
+
+1604869195 source:c:\users\utilisateur\desktop\bodraisgahat\programme\grille.c
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	"scrabble.h"
+
+1604849917 c:\users\utilisateur\desktop\bodraisgahat\programme\scrabble.h
+
+1604873585 source:c:\users\utilisateur\desktop\bodraisgahat\programme\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"Menu.h"
+
+1604848530 c:\users\utilisateur\desktop\bodraisgahat\programme\menu.h
+
+1604868721 source:c:\users\utilisateur\desktop\bodraisgahat\programme\nouvelle_partie.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"scrabble.h"
+
+1604851355 source:c:\users\utilisateur\desktop\bodraisgahat\programme\pioche.c
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<time.h>
+	<stdbool.h>
+	"scrabble.h"
+
+1604874625 source:c:\users\utilisateur\desktop\bodraisgahat\programme\tour_joueur.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"scrabble.h"
+
